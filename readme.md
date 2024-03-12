@@ -16,13 +16,18 @@ This project focuses on comprehensive Road Accident Data Analysis, where I metic
 ## `Tools and Technologies Used:`
 
 `Programming Language:` Python
+
 `Data Analysis Libraries:` Pandas, NumPy
+
 `Data Visualization:` Matplotlib, Seaborn
+
 `Data Visualization Tool:` PowerBI
 
 ## `How to Use:`
 Clone the repository to your local machine.
+
 Install the required dependencies using the provided requirements.txt file.
+
 Execute the main script to perform the analysis and generate visualizations.
 
 ## `Future Enhancements:`
