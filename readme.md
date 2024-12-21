@@ -1,5 +1,6 @@
 # Road Accident Data Analysis Project
 
+![Alt Text](https://github.com/mayurdalvi3003/Movie-Recommendation-System/blob/master/Output%20of%20our%20model.png)
 ## `Overview:`
 This project focuses on comprehensive Road Accident Data Analysis, where I meticulously examined and visualized key factors contributing to road accidents. Leveraging my skills in Data Science, I delved into road condition patterns, weather conditions, time of day, and yearly trends. The primary objective was to identify accident hotspots and derive meaningful insights for enhanced road safety.
 
